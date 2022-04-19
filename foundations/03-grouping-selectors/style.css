@@ -1,11 +1,13 @@
 .first, .second {
-
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
 }
 
 .first {
-
+    background-color: hsl(0, 0%, 0%);
+    color: white;
 }
 
 .second {
-    
+    background-color: #f5f11d;
 }

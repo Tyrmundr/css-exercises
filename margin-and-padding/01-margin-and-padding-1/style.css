@@ -7,15 +7,15 @@ body {
   background: pink;
   border: 3px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 20px; /*32px originally*/
+  margin: 10px; /*12px originally*/
 }
 
 .two {
   background: lightblue;
   border: 3px solid purple;
   /* CHANGE ME */
-  margin-bottom: 0px;
+  margin-bottom: 36px; /*48px originally*/
 }
 
 .three {
@@ -23,6 +23,6 @@ body {
   border: 3px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 20px; /*32px originally*/
+  margin-left: auto; /*Aligns to right without floating and such originally*/
 }
